@@ -1,4 +1,4 @@
-# KF-for-IIP-Course
+# KF-for-IIP
 Kalman Filter algorithms and Matlab/Python codes developed for the course of Intelligent Information Processing
 Example #1: KF for 1-D filtering
             1.1 Voltage monitoring of a power sourse
